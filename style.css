@@ -1,0 +1,46 @@
+.intestazione{
+    background-color: aqua;
+    text-align: center;
+    color: blue;
+    padding: 16px;
+
+    border-style: solid;
+    border-color: brown;
+    border-width: 8px;
+    border-radius: 30px;
+}
+
+.menu-intestazione{
+    color: black;
+    padding: 4px;
+    font-weight: bold;
+    font-size: large;
+}
+
+
+.panda{
+    position: absolute;
+    top: 500px;
+    left: 250px;
+}
+
+.nome-bio{
+    color: blue;
+    padding: 4px;
+    font-size: medium;
+    font-weight: bolder;
+}
+
+.nome-presentazione{
+    color: darkgoldenrod;
+    padding: 3px;
+    font-size: small;
+    font-weight: lighter;
+}
+
+.testo-tavola{
+    color: blueviolet;
+    padding: 5px;
+    font-size: large;
+    font-weight: bold;
+}
